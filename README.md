@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/AnandaDwiprayoga/AnandaDwiPrayoga/master/Ananda%20dwi%20Prayoga.png "Header")]("ananda dwi prayoga")
+[![Header](https://raw.githubusercontent.com/AnandaDwiprayoga/AnandaDwiPrayoga/master/Ananda%20dwi%20Prayoga.png "Header")]
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
