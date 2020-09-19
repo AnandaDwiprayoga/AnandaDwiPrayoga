@@ -6,7 +6,7 @@ My name is Ananda Dwi Prayoga and I'm a Fullstack developer who interest in web 
 
 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 ![Code Javascript](https://img.shields.io/badge/Code-Javascript-blue.svg?style=for-the-badge)
 ![Code Java](https://img.shields.io/badge/Code-Java-blue.svg?style=for-the-badge)
 ![Code kotlin](https://img.shields.io/badge/Code-kotlin-blue.svg?style=for-the-badge)
@@ -17,7 +17,24 @@ My name is Ananda Dwi Prayoga and I'm a Fullstack developer who interest in web 
 ![framework REACT](https://img.shields.io/badge/framework-REACT-FF69A4.svg?style=for-the-badge)
 ![framework FLUTTER](https://img.shields.io/badge/framework-FLUTTER-FF69A4.svg?style=for-the-badge)
 
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/AnandaDwiPrayoga/AnandaDwiPrayoga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaDwiPrayoga&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/AnandaDwiPrayoga/AnandaDwiPrayoga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnandaDwiPrayoga&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ananda Prayoga GitHub Stats" />
+</a>
+
+<a href="https://github.com/AnandaDwiprayoga/SewaLapanganFutsal-Android-kotlin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnandaDwiPrayoga&repo=
+SewaLapanganFutsal-Android-kotlin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/AnandaDwiprayoga/flutter-stayhome-ui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnandaDwiPrayoga&repo=flutter-stayhome-ui&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
