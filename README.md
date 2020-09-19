@@ -12,6 +12,7 @@ My name is Ananda Dwi Prayoga and I'm a Fullstack developer who interest in web 
 ![Code kotlin](https://img.shields.io/badge/Code-kotlin-blue.svg?style=for-the-badge)
 ![Code PHP](https://img.shields.io/badge/Code-PHP-blue.svg?style=for-the-badge)
 ![CODE DART](https://img.shields.io/badge/CODE-DART-blue.svg?style=for-the-badge)
+<br/>
 ![framework codeigniter](https://img.shields.io/badge/framework-codeigniter-FF69A4.svg?style=for-the-badge)
 ![framework REACT](https://img.shields.io/badge/framework-REACT-FF69A4.svg?style=for-the-badge)
 ![framework FLUTTER](https://img.shields.io/badge/framework-FLUTTER-FF69A4.svg?style=for-the-badge)
