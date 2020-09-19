@@ -6,7 +6,8 @@ My name is Ananda Dwi Prayoga and I'm a Fullstack developer who interest in web 
 
 
 
-
+## 🔧 Technologies & Tools
+![Code Javascript](https://img.shields.io/badge/Code-Javascript-blue.svg?style=for-the-badge)
 
 
 
