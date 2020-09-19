@@ -27,8 +27,7 @@ My name is Ananda Dwi Prayoga and I'm a Fullstack developer who interest in web 
 </a>
 
 <a href="https://github.com/AnandaDwiprayoga/SewaLapanganFutsal-Android-kotlin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnandaDwiPrayoga&repo=
-SewaLapanganFutsal-Android-kotlin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnandaDwiPrayoga&repo=SewaLapanganFutsal-Android-kotlin&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
